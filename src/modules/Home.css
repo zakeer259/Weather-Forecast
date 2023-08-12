@@ -1,0 +1,39 @@
+
+
+.bs{
+    margin-left: 160px;
+    margin-top: 50px;
+    size: 15px;
+}
+
+.button{
+    margin-top: 90px;
+    font-size: 20px;
+    border-radius: 45px;
+    padding: 5px;
+    border: none;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    transition: 0.6s linear;
+    cursor: pointer;
+}
+
+.green-btn {
+
+    background-color: rgba(255, 255, 255, 0);
+ 
+    color: white; 
+
+    border: 2px solid #000000;
+
+}
+
+
+.green-btn:hover {
+
+    background-color: #000000;
+
+    color: #847052;
+
+}

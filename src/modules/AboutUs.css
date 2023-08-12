@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+}
+
+body {
+  text-align: center;
+}
+
+.row-text-center {
+  display: flex;
+}
+.row {
+  display: flex;
+}

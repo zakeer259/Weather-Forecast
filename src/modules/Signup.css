@@ -1,0 +1,19 @@
+.forms{
+    background-color: rgba(0, 0, 0, 0.352);
+    color: aliceblue;
+    font-size: large;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+.headers{
+    color: aliceblue;
+    font-size: 10vh;
+    font-family: 'Monda', sans-serif;
+}
+.buton{
+    margin-left:26vh;
+}
+.h1-e{
+    font-size: 15px;
+    margin-top: 9px;
+    margin-left: 200px;
+}
