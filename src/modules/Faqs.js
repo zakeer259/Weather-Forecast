@@ -6,9 +6,9 @@ import {Link} from "react-router-dom"
 function Faqs() {
   return (
     <div>
-      <div className='text-center text-light mt-5 mb-5'>
+      <div className='text-center text-black mt-5 mb-5'>
         <h3><span>Frequently </span> Asked Questions</h3>
-        <p className='mt-2 mb-5'>Our Weather App is one of the Top Forecasting website</p>
+        <p className='text-black mt-2 mb-5'>Our Weather App is one of the Top Forecasting website</p>
       </div>
       <Accordion className='mx-auto mt-5 w-50'>
         <Accordion.Item eventKey="0" className='xyz p-1 mt-5 mb-4'>
@@ -38,7 +38,7 @@ function Faqs() {
           </Accordion.Body>
         </Accordion.Item>
       </Accordion>
-      <h3 className='abcx'>Can't find your answers? <Link to="/contactus">Contact us</Link></h3>
+      <h3 className='abcx text-black'>Can't find your answers? <Link to="/contactus">Contact us</Link></h3>
     </div>
   )
 }

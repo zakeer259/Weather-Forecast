@@ -1,7 +1,7 @@
 .header{
     font-size: xx-large;
     font-weight: 900;
-    font-family: 'Monda', sans-serif;
+    font-family:monospace;
     color: aliceblue;
 }
 .wraper{
@@ -11,7 +11,7 @@
     width: 80vh;
     height:60vh;
     margin: auto;
-    font-family: 'Alegreya Sans SC', sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-top: 2vh;
 }
 .buton2{

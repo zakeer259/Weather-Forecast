@@ -27,7 +27,7 @@ function Signup() {
     }
     return (
         <Container>
-            <div className='fw-bold text-center mb-4 headers'>Signup</div>
+            <div className='fw-bold text-center mb-4 headers text-success'>Signup</div>
             <div className='w-50 mx-auto mt-5 p-3 bd forms'>
                 <div className='row '>
                     <div className='col-12 w-75 col-sm-8 col-md-6 mx-auto'>

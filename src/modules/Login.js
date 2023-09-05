@@ -38,7 +38,7 @@ function Login() {
 
     return (
         <div className='container mb-4'>
-            <p className='display-2 text-center header'>Login</p>
+            <p className='text-success display-2 text-center header'>Login</p>
             <div className="wraper">
 
                 <div className='row'>

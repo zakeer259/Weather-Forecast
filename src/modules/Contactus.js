@@ -5,19 +5,19 @@ function Contactus() {
     <div className='container pt-5'>
       <div className='container'>
         <div className='row'>
-          <div className='col-md-5 mr-auto'>
+          <div className='col-md-5 mr-auto'>  
             <h1 className='text-black'>How Can we Help?</h1>
-            <p className='info'>Please specify the problem you fact while using this application in the message section. If you don't find what you need, fill out our contact form. Contact us for more information </p>
+            <p className='text-black info'>Please specify the problem you fact while using this application in the message section. If you don't find what you need, fill out our contact form. Contact us for more information </p>
             <ul className=" text-light details">
-              <li className="d-flex  mb-2">
-                <span className="mr-3"><span className="fa fa-map-marker px-2"></span></span>  Bachupally , Hyderabad, India
+              <li className="d-flex  mb-2 text-black">
+                <span className="mr-3 "><span className="fa fa-map-marker px-2"></span></span>  Bachupally , Hyderabad, India
               </li>
-              <li className="d-flex  mb-2">
+              <li className="d-flex  text-black mb-2">
                 <span className="mr-3">
                   <span className="fa fa-phone px-2"></span>
                   </span> 040-3456-7098
               </li>
-              <li className="d-flex ">
+              <li className="d-flex text-black">
                 <span className="mr-3">
                 <span className="fa fa-envelope px-2"></span>
                 </span> vnrvjiet@gmail.com

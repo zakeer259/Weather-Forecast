@@ -21,7 +21,7 @@ mclient.connect(DBurl)
 .then((client)=>{
 
     //get DB object
-    let dbObj=client.db("vnr2022db")
+    let dbObj=client.db("registration")
 
     //create collection object
     let usercollectionObject=dbObj.collection("usercollection")
